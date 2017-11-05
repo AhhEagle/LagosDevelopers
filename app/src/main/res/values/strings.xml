@@ -1,0 +1,11 @@
+<resources>
+        <string name="app_name">LagosDevelopers</string>
+        <string name="empty_view_state">Please wait...Loading</string>
+        <string name="share_developer_profile">Developers</string>
+        <string name="share_intent_chooser_title">Share Lagos Developers</string>
+        <string name="view_developer_profile">View Lagos Developer</string>
+        <string name="location_title">LOCATION</string>
+        <string name="repos_title">REPOS</string>
+        <string name="dummy_text">Oladimeji</string>
+
+</resources>
